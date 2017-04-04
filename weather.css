@@ -1,0 +1,74 @@
+body{
+background-image:url("body3.jpg") ; 
+  background-repeat:no-repeat;
+	
+}
+
+
+.mainBox{
+  position: relative;
+  background-image:url("mainBox.jpg");
+	background-size: 400px 500px;
+  height: 400px;
+  width: 30%;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius : 10px;
+  overflow: auto;
+	margin-top: 5%;
+	padding:20px;
+	box-shadow: 5px 5px 5px #4F3A35;
+}
+.location{
+	
+text-align: center;
+	color  : #F2F0EF;
+	font-size:30px;
+	font-family: Times New Roman;
+}
+.temperature{
+	position: absolute;
+	margin-top:60px;
+margin-left : 100px;
+	color  : #F2F0EF;
+	font-size:70px;
+	font-family: Times New Roman;
+}
+.converter{
+	position: absolute;
+	margin-left : 190px;
+	margin-top:50px;
+	
+	color  : #F2F0EF;
+	font-size:30px;
+	font-family: Times New Roman;
+}
+.celsius {
+text-decoration:none;
+	color  : #F2F0EF;
+}
+.farenheit {
+text-decoration:none;
+	color  : #F2F0EF;
+	
+}
+
+.condition{
+	text-align: center;
+	
+	margin-top:160px;
+	
+	color  : #F2F0EF;
+	font-size:30px;
+	font-family: Times New Roman;
+}
+.icon{
+	text-align: center;
+	
+	margin-top:40px;
+	
+	color  : #F2F0EF;
+	font-size:30px;
+	font-family: Times New Roman;
+}
+
